@@ -1,7 +1,7 @@
 # Nanochat with Red Hat AI
 The goal is explore building and working with LLMs the open source Red Hat AI infrastructure.
 
-[Andrej Kapathy](https://karpathy.ai/) created [**Nanochat**](https://github.com/karpathy/nanochat) a full-stack implementation of an LLM like ChatGPT. A single hackable code-base ideal for learning. The entire pipeline includes tokenisation, pre-training, finetuning, and evaluation. It is designed in such a way that the complete model can be built in around 4 hours on 8 x Nvidia H100 GPUs.
+[Andrej Karpathy](https://karpathy.ai/) created [**Nanochat**](https://github.com/karpathy/nanochat) a full-stack implementation of an LLM like ChatGPT. A single hackable code-base ideal for learning. The entire pipeline includes tokenisation, pre-training, finetuning, and evaluation. It is designed in such a way that the complete model can be built in around 4 hours on 8 x Nvidia H100 GPUs.
 
 With environments like [Lambda](https://lambda.ai/instances) that can be achieved for around USD $100.
 
