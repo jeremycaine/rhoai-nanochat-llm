@@ -80,14 +80,6 @@ Red Hat OpenShift AI provides a complete scalable, build and run data science an
 - Build that app from source in GitHub (Import from Git) in the Openhift cluster
 - Test the Chat API
 
-## 4. Explore vLLM
-TODO
-- on IBM VSI podman shows image installed `registry.redhat.io/rhelai1/instructlab-nvidia-rhel9`
-- run the container and shell into it (root@pytorch)
-- check nvidia environment
-- check vllm version which detects the CUDA platform
-
-TODO vLLM typically expects HuggingFace format models. 
 
 
 
